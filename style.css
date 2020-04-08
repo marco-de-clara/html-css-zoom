@@ -104,11 +104,11 @@ footer {
     text-align: center;
 }
 
-footer i {
+.text-dark-bg {
     cursor: pointer;
 }
 
-footer i,
+.text-dark-bg,
 footer p {
     color: white;
 }
